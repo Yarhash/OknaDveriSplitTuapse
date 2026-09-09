@@ -747,9 +747,8 @@ img {
     }
     
     .cta-box {
-        flex-direction: column;
-        text-align: center;
-        padding: 28px 20px;
-    }
-    
-    .
+    flex-direction: column;
+    text-align: center;
+    padding: 28px 20px;
+}
+} /* closes the surrounding @media block */
